@@ -1,7 +1,8 @@
 # Xevnex eSports 🎮
 
 Xevnex eSports is a tournament platform concept built for mobile gamers in India.  
-The idea is simple: make it easy for players to join ![Uploading image.png…]()
+The idea is simple: make it easy for players to join  <img width="1362" height="597" alt="image" src="https://github.com/user-attachments/assets/6b38579d-38ba-48b3-92ec-23828329cc7b" />
+
 
 competitive matches, play with their squad, and actually win rewards.
 
